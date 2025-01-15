@@ -1,0 +1,1 @@
+[![Build binary release](https://github.com/Sairam14/image-renderer/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/Sairam14/image-renderer/actions/workflows/release.yml)
