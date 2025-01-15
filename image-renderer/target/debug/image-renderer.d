@@ -1,1 +1,0 @@
-/Users/Sairam/Sairam/rust/image-renderer/image-renderer/target/debug/image-renderer: /Users/Sairam/Sairam/rust/image-renderer/image-renderer/src/lib.rs /Users/Sairam/Sairam/rust/image-renderer/image-renderer/src/main.rs
