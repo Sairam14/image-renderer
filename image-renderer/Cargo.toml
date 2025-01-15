@@ -10,4 +10,3 @@ crossbeam = "0.8"
 
 [build-dependencies]
 clippy = { version = "*", optional = true }
-lint = { version = "*", optional = true }
